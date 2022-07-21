@@ -1,0 +1,100 @@
+
+@import url("https://use.typekit.net/ovc2wiq.css");
+
+body {
+
+background-image: url(https://i.etsystatic.com/9732208/r/il/b5b516/2234884270/il_794xN.2234884270_1qk2.jpg);    
+background-color: rgb(204, 204, 191);
+background-repeat:repeat;
+padding: 0 500px;
+font-family: cardo, serif;
+
+
+} 
+
+
+
+.typo {
+    text-align: left;
+    margin: 0 0 100px 0;
+    }
+
+    p {
+     margin: 20px;         
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 16px;
+        font-weight: 200;
+    }
+
+.kabutes {
+    position: absolute;
+    font-size: 48px;
+    left: 480px;
+    top: 120px;
+    color: gray;
+    
+    
+    
+}
+
+.author {
+       font-weight: 700;
+       font-size: 20px;
+       text-align: end;
+           
+}
+
+
+
+.bigger-letter {
+    float: left;
+    margin: 5px;
+    font-size: 48px;
+    line-height: 40px;
+}
+
+.fa {
+    margin: 0 5px;
+    line-height: 5px;
+}
+
+.bl {
+    font-size: 50px;
+    margin: 0 5px ;
+}
+
+.logo-middle {
+    text-align: center;
+    font-size: 30px ;
+}
+
+.author2 {
+    float: right;
+    margin: 10px;
+    font-weight: 700;
+}
+
+.wikipedia {
+    text-align: center;
+    margin: 100px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
